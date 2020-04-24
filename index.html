@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Weather App</title>
+    <!-- bootstrap -->
+    <link rel="stylesheet" href="css/bootstrap.min.css"> 
+    <link rel="stylesheet" href="css/style.css">
+    <link href="https://fonts.googleapis.com/css?family=Baloo+Thambi+2&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <div class="title col-10 col-md-6 mx-auto text-center">
+            <h1 class="text-capitalize">What's the weather?</h1>
+            <p>Check the weather in a city</p>
+        </div>
+        <div class="col col-md-8 mx-auto">
+            <div class="feedback alert alert-danger text-capitalize text-center"></div>
+        <div class="card card-body mb-5">
+            <div class="card-title text-center text-capitalize">
+            <h2 class="text-capitalize my-5 font-weight-bold">Search the city</h2>
+            </div>
+            <form id="weatherForm">
+                <div class="input-group">
+                  <input type="text" class="form-control text-capitalize" id="cityInput" placeholder="Enter a city">
+                  <div class="input-group-append">
+                    <button type="submit" class="text-capitalize submitBtn mx-2">submit</button>
+                  </div>
+                </div>
+              </form>
+                    <!-- results section -->
+            <div class="results text-center mt-5">
+                <div class="backgroundImg">
+                    <img src="img/cold.png" alt="" id="cold">
+                    <img src="img/warm.png" alt="" id="warm">
+                </div>
+                <h6 class="text-capitalize">city name: <span id="cityName"></span></h6>
+                <h6 class="text-capitalize">country: <span id="cityCountry"></span></h6>
+                <img src="#" id="cityIcon" />
+                <h6 class="text-capitalize">temperature in celsius : <span id="cityTemperature"></span><span class="m-3"></span>
+                    <!-- icons retrieved from www.iconfinder.com -->
+                    <img src="img/temp.svg" alt="">
+                    </span></h6>
+                <h6 class="text-capitalize">humidity : <span id="cityHumidity"></span><span class="m-3"></span>
+                    <img src="img/hum.svg" alt="">
+                    </span></h6>
+            </div>
+
+
+        </div>
+        </div>
+
+
+
+
+
+
+    </div>
+
+<!-- jquery -->
+<script src="js/jquery-3.4.1.min.js"></script>
+<!-- bootstrap -->
+<script src=""></script>
+<!-- javascript -->
+    <script src="js/app.js"></script>
+</body>
+</html>

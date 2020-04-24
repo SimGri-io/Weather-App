@@ -1,0 +1,56 @@
+body{
+    background: rgb(20, 47, 94);
+    font-family: 'Baloo Thambi 2', cursive;
+    color: rgba(232, 252, 143, 0.82);
+
+}
+.container{
+    background-image: url("img/cold.png")!important;
+    background-size: cover;
+}
+.title{
+    top: 30px;
+    width: 30rem;
+    height: 10rem;
+    border-radius: 5%;
+}
+.search{
+    border: 0.3rem solid rgb(201, 211, 211, 0.82);
+}
+.input{
+    width: 7rem;
+    height: 3rem;
+    outline: none;
+    border: 0.1rem solid rgb(54, 69, 69, 0.5);
+}
+p{
+    font-style: italic;
+}
+.card{
+    background: rgb(204, 84, 10);
+    box-shadow: 0 10px 15px black;
+}
+img{
+    width: 44px;
+    height: 44px;
+}
+.submitBtn{
+    background: rgb(25, 41, 77);
+    color: rgba(232, 252, 143, 0.82);
+    border: none;
+    font-size: 1.5rem;
+    cursor: pointer;
+    opacity: 0.7;
+}
+.submitBtn:hover{
+    opacity: 1;
+}
+.feedback {
+    display: none;
+}
+.results {
+    display: none;
+}
+.showItem {
+    display: block;
+}
