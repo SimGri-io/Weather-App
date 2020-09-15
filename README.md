@@ -20,7 +20,7 @@ https://youtu.be/Rix2hIQhHiM
 http://weary-zephyr.surge.sh/
 
 ## Possible future updates:
--Update UI, create more responsive design
--Include city API to visualize city background on search
+- Update UI, create more responsive design
+- Include city API to visualize city background on search
 
 
