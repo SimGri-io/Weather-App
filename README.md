@@ -1,6 +1,6 @@
 Weather app developed with JavaScript, Ajax, weather API, Bootstrap, CSS.
 Checkout code gif: https://media.giphy.com/media/LM8CFf431FA6yl79lk/giphy.gif
-See project preview: https://youtu.be/Rix2hIQhHiM
+See project preview here: https://youtu.be/Rix2hIQhHiM
 Find deployed project at: http://weary-zephyr.surge.sh/
 
 Possible future updates:
