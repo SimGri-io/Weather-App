@@ -7,7 +7,7 @@
 - Bootstrap
 - CSS
 
-![](https://media.giphy.com/media/LM8CFf431FA6yl79lk/giphy.gif)
+![](https://github.com/SimGri-io/Weather-App/blob/master/Weather-App-js-at-master-SimGri.gif)
 
 ![](https://github.com/SimGri-io/Weather-App/blob/master/Weather-App-Google-Chrome-2020-0.gif)
 
