@@ -9,7 +9,7 @@
 
 ![](https://media.giphy.com/media/LM8CFf431FA6yl79lk/giphy.gif)
 
-![](https://media.giphy.com/media/UUnY4Rk0s05A6Vwtcu/giphy.gif)
+![](https://github.com/SimGri-io/Weather-App/blob/master/Weather-App-Google-Chrome-2020-0.gif)
 
 ## See project preview here: 
 
